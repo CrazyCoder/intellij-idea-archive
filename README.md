@@ -7,6 +7,8 @@ Needs JDK 1.3 to run.
 
 ## Screenshots
 
+![Logo](screenshots/idea-logo.gif)
+
 ![About](screenshots/about.png)
 
 ![Editor](screenshots/editor.png)
