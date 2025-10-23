@@ -11,6 +11,8 @@ Needs JDK 1.3 to run.
 
 ![Editor](screenshots/editor.png)
 
+![Editor Settings](screenshots/editor-settings.png)
+
 ![Color Settings](screenshots/color-settings.png)
 
 ![Project Wizard](screenshots/new-project-wizard.png)
@@ -20,3 +22,15 @@ Needs JDK 1.3 to run.
 ![Run Settings](screenshots/run-settings.png)
 
 ![Tip of the Day](screenshots/tip.png)
+
+## Menu
+
+![Context Menu](screenshots/context-menu.png)
+
+![Refactoring Menu](screenshots/refactoring-menu.png)
+
+![Search Menu](screenshots/search-menu.png)
+
+![View Menu](screenshots/view-menu.png)
+
+![Run Menu](screenshots/run-menu.png)
