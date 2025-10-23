@@ -4,3 +4,5 @@ To activate change time to 2012.
 
 User name: `IntelliJ Retro Fun`\
 License key: `SytArkKk401W2BJL`
+
+Needs JDK 1.3 to run.
