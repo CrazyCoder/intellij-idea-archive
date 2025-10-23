@@ -13,19 +13,21 @@ Needs JDK 1.3 to run.
 
 ![Editor](screenshots/editor.png)
 
+![Debugger](screenshots/debugger.png)
+
 ![Editor Settings](screenshots/editor-settings.png)
 
 ![Color Settings](screenshots/color-settings.png)
 
 ![Project Wizard](screenshots/new-project-wizard.png)
 
-![New Class](screenshots/new-class.png)
-
 ![Run Settings](screenshots/run-settings.png)
 
 ![Tip of the Day](screenshots/tip.png)
 
 ## Menu
+
+![New Class](screenshots/new-class.png)
 
 ![Context Menu](screenshots/context-menu.png)
 
